@@ -142,3 +142,9 @@ Gọi tới file chứa danh sách các file extension trong nginx
 
 - `types_hash_max_size 2048;`
 
+
+- Định nghĩa về worker : Đối với Apache và Nginx chúng ta có 2 mức độ hoạt động tiêu biểu đó là prefork và worker . prefork và 
+worker cho phép mở nhiều child process . Trong đó 1 thread/1 child process được gọi là prefork và many thread/1 child process được 
+gọi là worker. Về độ xử lý mạnh mẽ thì worker sẽ mạnh mẽ hơn prefork tuy nhiên đòi hỏi tài nguyên bị chiếm dụng sẽ nhiều hơn , xét về sự 
+ổn định thì prefork sẽ ổn định hơn worker. Với prefork và 1 server Unix tầm trung có thể chia cho khoảng 500 người dùng nhiều dịch vụ cùng lúc.
+
