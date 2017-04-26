@@ -1,6 +1,6 @@
 # Cài đặt Nginx.
 
-- Môi trường CentOS.
+- Cài đặt trên Nginx CentOS.
 
 ## 1. Tổng quan về Nginx.
 
