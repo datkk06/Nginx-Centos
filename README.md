@@ -6,8 +6,8 @@
 
 [3. Nginx virtualhost](https://github.com/datkk06/Nginx-Centos/blob/master/docs/nginx-virtualhost.md)
 
-[4. Nginx xác thực]()
+[4. Nginx xác thực](https://github.com/datkk06/Nginx-Centos/blob/master/docs/nginx-auth.md)
 
-[5. Nginx reverse proxy]()
+[5. Nginx reverse proxy](https://github.com/datkk06/Nginx-Centos/blob/master/docs/nginx-reverse-proxy.md)
 
-[6. Nginx load balancing]()
+[6. Nginx load balancing](https://github.com/datkk06/Nginx-Centos/blob/master/docs/nginx-loadbalncing.md)
