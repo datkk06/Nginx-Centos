@@ -5,3 +5,9 @@
 [2. Ý nghĩa file cấu hình trong Nginx](https://github.com/datkk06/Nginx-Centos/blob/master/docs/nginx-conf.md)
 
 [3. Nginx virtualhost](https://github.com/datkk06/Nginx-Centos/blob/master/docs/nginx-virtualhost.md)
+
+[4. Nginx xác thực]()
+
+[5. Nginx reverse proxy]()
+
+[6. Nginx load balancing]()
